@@ -1,0 +1,82 @@
+.ustalan {
+    background-color:#405D9B !important;
+}
+
+/* nav input {
+    padding: 0px !important;
+    border-radius: 0px;
+} */
+
+
+.facelogin {
+    padding: 0px !important;
+    border-radius: 0px !important;
+}
+
+.facepw {
+    padding: 0px !important;
+    border-radius: 0px !important;
+}
+
+.facebutongiris{
+  font-size: 12px !important;  
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #405D9B !important;
+  
+}
+
+
+.labelfacelogin
+{
+    position: absolute;
+    margin-top: -45px !important;
+    font-size: 12px !important;
+    color: white;
+    
+}
+
+.labelfacepw
+{
+    position: absolute;
+    margin-top: -45px !important;
+    margin-left: 170px !important;
+    font-size: 12px !important;
+    color: white;
+}
+
+.labelfaceunutmak
+{
+    position: absolute;
+    margin-top: 45px !important;
+    margin-left: 170px !important;
+    font-size: 12px !important;
+    color: #9CB4D0;
+}
+
+.gradian {
+    background: linear-gradient(white,#D4D9E8);
+    background: -webkit-linear-gradient(white,#D4D9E8);
+	background: -moz-linear-gradient(white,#D4D9E8);
+	background: -o-linear-gradient(white,#D4D9E8);
+}
+
+
+.dtarih {
+    padding: 5px !important;
+    width: 70px !important;
+    border-radius: 0px !important;
+    height: 35px !important;
+}
+
+
+.dtarih1{
+    padding: 5px !important;
+    width: 50px !important;
+    border-radius: 0px !important;
+    height: 35px !important;
+}
+
+.altmenuler {
+
+	font-size:13px;
+}
